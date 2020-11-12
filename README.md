@@ -1,4 +1,4 @@
-# CMPUT604 Harrow-Hassidim-Lloyd Quantum Algorithm porject
+# CMPUT604 Harrow-Hassidim-Lloyd Quantum Algorithm project
 This is a repository for my final project for Introduction to Quantum Computing at UofA.
 
 CMPUT 604 was a Introduction to Quatum Computing class at the University of Alberta that had for a final project a full implementation for a Quatum Algorithm
